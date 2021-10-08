@@ -1,0 +1,14 @@
+.p-5 mb-4 bg-light rounded-3{
+    background-color: rgba(111, 111, 129);
+    padding: 1em 0.7em;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 9vh;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 1.5em
+}
